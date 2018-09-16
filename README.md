@@ -1,2 +1,3 @@
 # springstudy
-토비의 스프링3.1 스터디
+
+https://askyclear.github.io/tobi-spring-chap2/
